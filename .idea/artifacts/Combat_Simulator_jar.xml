@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Combat Simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Combat_Simulator_jar</output-path>
+    <root id="archive" name="Combat Simulator.jar">
+      <element id="module-output" name="Combat Simulator" />
+    </root>
+  </artifact>
+</component>
